@@ -1,0 +1,14 @@
+.MoviesCard {
+    background-color: #282c34;
+    color: white;
+    width: 400px;
+    text-align: center;
+  }
+  .title{
+      font-size: 30px;
+     
+  }
+  .moviedetails{
+      background-color:burlywood;
+     border: #282c34;
+  }
